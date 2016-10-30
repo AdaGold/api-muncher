@@ -31,6 +31,7 @@ Create a web application that will display recipes based on a search term. We wi
 **Additional Requirements**:  
 - One of the things that permits us to use this API, it providing attibution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page. 
   - [Examples from the API site](https://www.dropbox.com/sh/ss34tnh4kyfxkxu/AADNJ_pB7Ou8_MVrYxgM4aQYa?dl=0&preview=Attribution+examples.pdf)
+-  You must also create tests for your API Wrapper & any classes as well as controller tests using VCR.  
 
 ### Important Notes:
 - Using this API as a developer limits the number of API calls in a month to 5000. This means that we must try to minimize API calls for testing purposes as much as possible, to ensure you do not exceed this number of API calls in the one week of development we have.
@@ -40,3 +41,10 @@ Create a web application that will display recipes based on a search term. We wi
 - Keep track of most recent search terms and allow user's to return to those searches
 - Implement an OAuth strategy using Google
   - Allow users to save recipes to a "favorites" section that they can return to
+- Enhance the Search results by providing pagination, for example only showing the last 10 results with buttons to show the next 10 etc.
+-  Provide checkboxes or other controls to limit the search to options such as:
+	-  Peanut Free
+	-  Soy Free
+	-  High Protien
+	-  Etc
+ 
