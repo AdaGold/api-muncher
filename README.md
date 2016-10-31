@@ -41,7 +41,6 @@ Create a web application that will display recipes based on a search term. We wi
 - Keep track of most recent search terms and allow user's to return to those searches
 - Implement an OAuth strategy using Google
   - Allow users to save recipes to a "favorites" section that they can return to
-- Enhance the Search results by providing pagination, for example only showing the last 10 results with buttons to show the next 10 etc.
 -  Provide checkboxes or other controls to limit the search to options such as:
 	-  Peanut Free
 	-  Soy Free
