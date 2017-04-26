@@ -1,16 +1,16 @@
 # Recipe API Consumer
 
+## Purpose
+Create a web application that will display recipes based on a search term. We will utilize an API from Edamam called the [Recipe Search API](https://developer.edamam.com/edamam-recipe-api).
+
+This is an individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
+
 ## Learning Goals:
 - Configure an API for consumption
 - Create authenticated API requests using HTTParty
 - Consume JSON responses from an API
 - Map response to application-specific data
 - Separate API logic from application logic
-
-This is an individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
-
-## Purpose
-Create a web application that will display recipes based on a search term. We will utilize an API from Edamam called the [Recipe Search API](https://developer.edamam.com/edamam-recipe-api).
 
 
 ### Baseline
