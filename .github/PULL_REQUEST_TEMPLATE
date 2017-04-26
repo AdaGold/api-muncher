@@ -6,7 +6,7 @@ Congratulations! You're submitting your assignment!
 | Question | Answer    |
 | :------------- | :------------- |
 | How did you go about exploring the Edamam API, how did you try querying the API? |  |
-| Describe your API Wrapper.  How did you decide on the methods you created. |  |
+| Describe your API Wrapper.  How did you decide on the methods you created? |  |
 | Describe how you approached testing your API Wrapper, what edge cases do you take? |  |
 | Explain how VCR aids in testing an API. |  |
 | What is the Heroku URL of your deployed application? |  |
