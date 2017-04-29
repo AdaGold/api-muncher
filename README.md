@@ -17,7 +17,7 @@ This is an individual, [stage 2](https://github.com/Ada-Developers-Academy/pedag
 Before you start writing _any_ code:
 
 - Explore the API documentation to become familiar with the request(s) you can make
-- If desired, create a Trello board to manage tasks
+- Create a Trello Board listing the features you will need to add.
 
 Once you've explored the API docs, this project:
 
