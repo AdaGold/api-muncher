@@ -1,5 +1,10 @@
 # Recipe API Consumer
 
+## Purpose
+Create a web application that will display recipes based on a search term. We will utilize an API from Edamam called the [Recipe Search API](https://developer.edamam.com/edamam-recipe-api).
+
+This is an individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
+
 ## Learning Goals:
 - Configure an API for consumption
 - Create authenticated API requests using HTTParty
@@ -7,15 +12,12 @@
 - Map response to application-specific data
 - Separate API logic from application logic
 
-## Purpose
-Create a web application that will display recipes based on a search term. We will utilize an API from Edamam called the [Recipe Search API](https://developer.edamam.com/edamam-recipe-api).
-
 
 ### Baseline
 Before you start writing _any_ code:
 
 - Explore the API documentation to become familiar with the request(s) you can make
-- If desired, create a Trello board to manage tasks
+- Create a Trello Board listing the features you will need to add and use it to track the progress of your app.
 
 Once you've explored the API docs, this project:
 
@@ -24,6 +26,7 @@ Once you've explored the API docs, this project:
 - requires you to create a Rails application
   - conform to Rails conventions on naming and inflection
   - by using `rails new .` you will create a new rails app _inside_ of the fork folder instead of creating a _new_ folder for your rails app
+  - Deploy your completed app to Heroku
   
 **You shall submit a pull request _with a meaningful pull request description_ once you are done with the baseline which shall be merged before moving onto implementing the requirements. _Do not push any additional code until your baseline PR has been merged_**
 
