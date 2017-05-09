@@ -17,8 +17,6 @@
 | Search View |  |
 | List View |  |
 | Show View which opens in a new tab |  |
-| **Styling** |  |
-| Foundation is used appropriately |  |
 | **API Features** | |
 | The App attributes Edaman | |
 | The VCR casettes do not contain the API key |  |
