@@ -19,7 +19,6 @@
 | Show View which opens in a new tab |  |
 | **Styling** |  |
 | Foundation is used appropriately |  |
-| Look and feel is similar to the original |  |
 | **API Features** | |
 | The App attributes Edaman | |
 | The VCR casettes do not contain the API key |  |
