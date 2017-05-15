@@ -8,10 +8,10 @@
 | Comprehension questions	|  |
 | **General** |  |
 | Rails fundamentals (RESTful routing, use of named paths) |  |
-| Semantic HTML |  |
 | Errors are reported to the user |  |
 | API Wrapper to handle the API requests |  |
 | Controller testing |  |
+| API Wrapper Testing |  |
 | **Styling** |  |
 | Foundation Styling for responsive layout |  |
 | Search View |  |
