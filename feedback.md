@@ -12,6 +12,7 @@
 | API Wrapper to handle the API requests |  |
 | Controller testing |  |
 | API Wrapper Testing |  |
+| Pagination |  |
 | **Styling** |  |
 | Foundation Styling for responsive layout |  |
 | Search View |  |
