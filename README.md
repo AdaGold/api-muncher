@@ -78,6 +78,11 @@ You have creative control over the design and layout of this project. Below are 
 
   ![Results Page Wireframe](assets/muncher_results_wireframe.png )
 
+  **Recipe Show Page:**
+
+  ![Results Page Wireframe](assets/muncher_recipe_wireframe.png )
+
+
 Reminder: Make sure all content is still easy to read when the width of a screen is shrunk. Use flexible measurements like width and REM.
 
 These should be responsive. When the screen width shrinks to a medium screen, have a row with only two recipes. On a small screen width, have only a single recipe per line.  
