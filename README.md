@@ -47,7 +47,7 @@ Once you've explored the API docs, this project:
   - Dietary information
 
 **Additional Requirements**:  
-- One of the things that permits us to use this API, it providing attibution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page.
+- One of the things that permits us to use this API, it providing attribution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page.
   - [Examples from the API site](https://www.dropbox.com/sh/ss34tnh4kyfxkxu/AADNJ_pB7Ou8_MVrYxgM4aQYa?dl=0&preview=Attribution+examples.pdf)
 - You must also create tests for your API Wrapper & any classes as well as controller tests using VCR
 - Your site must have a **responsive** look and feel, use semantic HTML as well as any grid formatting using Zurb Foundation
@@ -65,3 +65,19 @@ Once you've explored the API docs, this project:
 	-  Soy Free
 	-  High Protien
 	-  Etc
+
+
+### Wireframes:
+You have creative control over the design and layout of this project. Below are optional wireframes you may use. It is not a requirement that you do.
+
+**Homepage:**
+
+  ![Splash Page Wireframe](assets/muncher_splash_wireframe.png )
+
+  **Results Page:**
+
+  ![Results Page Wireframe](assets/muncher_results_wireframe.png )
+
+Reminder: Make sure all content is still easy to read when the width of a screen is shrunk. Use flexible measurements like width and REM.
+
+These should be responsive. When the screen width shrinks to a medium screen, have a row with only two recipes. On a small screen width, have only a single recipe per line.  
