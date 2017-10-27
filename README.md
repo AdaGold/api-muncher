@@ -33,7 +33,7 @@ Once you've explored the API docs, this project:
 - The user shall type in a search term that will:
   - Make a request to the API using the search term
   - Display the results in a list to the user
-  
+
 **List View**:  
 - This shall show a **paged** list of recipes for a given search term, _ten at a time_
 - This view shall show the name of the recipe and the corresponding photo
@@ -45,9 +45,9 @@ Once you've explored the API docs, this project:
   - Link to the original recipe (opens in a new tab)
   - Ingredients
   - Dietary information
-  
+
 **Additional Requirements**:  
-- One of the things that permits us to use this API, it providing attibution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page. 
+- One of the things that permits us to use this API, it providing attibution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page.
   - [Examples from the API site](https://www.dropbox.com/sh/ss34tnh4kyfxkxu/AADNJ_pB7Ou8_MVrYxgM4aQYa?dl=0&preview=Attribution+examples.pdf)
 - You must also create tests for your API Wrapper & any classes as well as controller tests using VCR
 - Your site must have a **responsive** look and feel, use semantic HTML as well as any grid formatting using Zurb Foundation
@@ -56,7 +56,7 @@ Once you've explored the API docs, this project:
 - Using this API as a developer limits the number of API calls in a month to 5000. This means that we must try to minimize API calls for testing purposes as much as possible, to ensure you do not exceed this number of API calls in the one week of development we have.
 
 
-### Optional Requirements:
+### Optionals:
 - Keep track of most recent search terms and allow user's to return to those searches
 - Implement an OAuth strategy using Google
   - Allow users to save recipes to a "favorites" section that they can return to
@@ -65,4 +65,3 @@ Once you've explored the API docs, this project:
 	-  Soy Free
 	-  High Protien
 	-  Etc
- 
