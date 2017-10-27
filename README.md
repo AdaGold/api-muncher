@@ -72,7 +72,7 @@ You have creative control over the design and layout of this project. Below are 
 
 **Homepage:**
 
-  ![Splash Page Wireframe](assets/muncher_splash_wireframe.png )
+  ![Splash Page Wireframe](assets/Muncher_splash_wireframe.png )
 
   **Results Page:**
 
