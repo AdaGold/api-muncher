@@ -50,7 +50,7 @@ Once you've explored the API docs, this project:
 - One of the things that permits us to use this API, it providing attribution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page.
   - [Examples from the API site](https://www.dropbox.com/sh/ss34tnh4kyfxkxu/AADNJ_pB7Ou8_MVrYxgM4aQYa?dl=0&preview=Attribution+examples.pdf)
 - You must also create tests for your API Wrapper & any classes as well as controller tests using VCR
-- Your site must have a **responsive** look and feel, use semantic HTML as well as any grid formatting using Zurb Foundation
+- Your site must have a responsive design, must be usable on mobile devices, and must use semantic HTML
 
 ### Important Notes:
 - Using this API as a developer limits the number of API calls in a month to 5000. This means that we must try to minimize API calls for testing purposes as much as possible, to ensure you do not exceed this number of API calls in the one week of development we have.
@@ -63,11 +63,11 @@ Once you've explored the API docs, this project:
 -  Provide checkboxes or other controls to limit the search to options such as:
 	-  Peanut Free
 	-  Soy Free
-	-  High Protien
+	-  High Protein
 	-  Etc
 
 
-### Wireframes:
+### Optional Wireframes:
 You have creative control over the design and layout of this project. Below are optional wireframes you may use. It is not a requirement that you do.
 
 **Homepage:**
