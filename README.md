@@ -86,3 +86,7 @@ You have creative control over the design and layout of this project. Below are 
 Reminder: Make sure all content is still easy to read when the width of a screen is shrunk. Use flexible measurements like width and REM.
 
 These should be responsive. When the screen width shrinks to a medium screen, have a row with only two recipes. On a small screen width, have only a single recipe per line.  
+
+## What We're Looking For
+
+Check the [feedback template](./feedback.md) to see how we will evaluate your project. 
