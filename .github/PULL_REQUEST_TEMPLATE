@@ -10,3 +10,4 @@ Describe your API Wrapper.  How did you decide on the methods you created? |
 Describe an edge case or failure case test you wrote for your API Wrapper. | 
 Explain how VCR aids in testing an API. | 
 What is the Heroku URL of your deployed application? | 
+Provide a link to the Trello board you used |
