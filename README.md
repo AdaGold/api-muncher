@@ -3,6 +3,8 @@
 ## Purpose
 Create a web application that will display recipes based on a search term. We will utilize an API from Edamam called the [Recipe Search API](https://developer.edamam.com/edamam-recipe-api).
 
+This project will require some research into techniques we have not taught in class.
+
 This is an individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md) project.
 
 ## Learning Goals:
@@ -36,6 +38,7 @@ Once you've explored the API docs, this project:
 
 **List View**:  
 - This shall show a **paged** list of recipes for a given search term, _ten at a time_
+  - Pagination of the recipies is a feature you will need to research including a concept called query parameters.
 - This view shall show the name of the recipe and the corresponding photo
 - The view shall have a link from the recipe to a recipe show view
 
@@ -89,6 +92,6 @@ These should be responsive. When the screen width shrinks to a medium screen, ha
 
 ## What We're Looking For
 
-Check the [feedback template](./feedback.md) to see how we will evaluate your project. 
+Check the [feedback template](./feedback.md) to see how we will evaluate your project.
 
 This project is due **Monday May 7th**
