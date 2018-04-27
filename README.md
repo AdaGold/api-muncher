@@ -94,4 +94,4 @@ These should be responsive. When the screen width shrinks to a medium screen, ha
 
 Check the [feedback template](./feedback.md) to see how we will evaluate your project.
 
-This project is due **Monday May 7th**
+This project is due **  **
