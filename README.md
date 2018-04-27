@@ -48,7 +48,7 @@ Once you've explored the API docs, this project:
 
 **Additional Requirements**:  
 - One of the things that permits us to use this API, it providing attribution to the API's created. We must provide this somewhere on our site. Example locations include the footer or an about page.
-  - [Examples from the API site](https://www.dropbox.com/sh/ss34tnh4kyfxkxu/AADNJ_pB7Ou8_MVrYxgM4aQYa?dl=0&preview=Attribution+examples.pdf)
+  - [Examples from the API site](./images/attribution.png)
 - You must also create tests for your API Wrapper & any classes as well as controller tests using VCR
 - Your site must have a responsive design, must be usable on mobile devices, and must use semantic HTML
 
