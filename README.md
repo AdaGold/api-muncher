@@ -1,7 +1,5 @@
 # API Muncher: Recipe API Consumer
 
-<!-- prep them "this is hard, they are not restful." it is not trivial -->
-
 ## At a Glance
 
 - Individual, [stage 2](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/rule-of-three.md#stage-2) project
@@ -103,4 +101,5 @@ You have creative control over the design and layout of this project. Below are 
 Can you make your layout responsive? When the screen width shrinks to a medium screen, have a row with only two recipes. On a small screen width, have only a single recipe per line.  
 
 ## What Instructors Are Looking For
+
 Check out the [feedback template](feedback.md) which lists the items instructors will be looking for as they evaluate your project.
