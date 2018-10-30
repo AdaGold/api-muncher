@@ -18,7 +18,7 @@ List Functionality |
 Show individual item functionality |
 **Styling** |
 List view shows 10 items at a time and/or has pagination |
-Attractive and usable user interface |
+Attractive and usable UI |
 **API Features** |
 The App attributes Edamam |
 The VCR cassettes do not contain the API key |

@@ -69,7 +69,7 @@ Once you've explored the API docs, this project:
 
 ## Important Notes
 
-- How will you go from a list of recipes pulled down from an API, to being able to view a specific recipe in detail? Take time to consider your answer, write down the steps, and make a plan. Then, look at the API documentation to understand the detail of how you will execute it. Use Postman and your debugging skills to aggressively check what your requests look like in order to get specific recipe detail data. Edamam's API is not RESTful; this is not trivial. You'll have to use some clever code to get this to work! Be patient, and you'll get there.
+- How will you go from a list of recipes pulled down from an API, to being able to view a specific recipe in detail? Take time to consider your answer, write down the steps, and make a plan. Then, look at the API documentation to understand the detail of how you will execute it. Use Postman and your debugging skills to aggressively check what your requests look like in order to get specific recipe detail data. **Edamam's API is not RESTful**; this is not trivial. You'll have to use some clever code to get this to work! Be patient, and you'll get there.
 - Using this API as a developer limits the number of API calls in a month to 5000. This means that we must try to minimize API calls for testing purposes as much as possible, to ensure you do not exceed this number of API calls in the one week of development we have.
 
 ## Optional Enhancements
