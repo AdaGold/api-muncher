@@ -57,13 +57,13 @@ Once you've explored the API docs, this project:
   - Ingredients
   - Dietary information
 
-### Miscellaneous Requirements
+### Non-functional Requirements
 
 - Follow the requirements of attribution to Edamam, as required by their Terms and Conditions
   - [Official documentation from Edamam on attribution](https://developer.edamam.com/attribution)
 - Create thorough tests for your any API Wrappers, classes, and controllers using VCR
-- Use semantic HTML
 - As a user, when I interact with the site and there is a problem, then I can see an error message detailing what the problem is and what I should do
+  - As a user, when I put in an incorrect parameter for an individual recipe in the browser's address bar, then the site reports a friendly error explaining that this recipe doesn't exist, and doesn't show an exception
 
 ## Important Notes
 
