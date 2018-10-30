@@ -5,7 +5,7 @@ Congratulations! You're submitting your assignment!
 Question | Answer
 :------------- | :-------------
 How did you go about exploring the Edamam API, and how did you try querying the API? |
-What is an API Wrapper? Why is it in `lib`? |
+What is an API Wrapper? Why is it in `lib`? How would your project change if you needed to interact with more than one API (aka more than just the Edamam API)? |
 Describe your API wrapper, the methods you created in it, and why you decided to create those methods/how they were helpful |
 What was an edge case or failure case test you wrote for your API Wrapper? What was a nominal case? |
 How does VCR aid in testing an API? |
