@@ -1,12 +1,12 @@
-
 # API Muncher
 Congratulations! You're submitting your assignment!
 
 ## Comprehension Questions
 Question | Answer
 :------------- | :-------------
-How did you go about exploring the Edamam API, how did you try querying the API? | 
-Describe your API Wrapper.  How did you decide on the methods you created? | 
-Describe an edge case or failure case test you wrote for your API Wrapper. | 
-Explain how VCR aids in testing an API. | 
-What is the Heroku URL of your deployed application? | 
+How did you go about exploring the Edamam API, and how did you try querying the API? |
+What is an API Wrapper? Why is it in `lib`? |
+Describe your API wrapper, the methods you created in it, and why you decided to create those methods/how they were helpful |
+What was an edge case or failure case test you wrote for your API Wrapper? What was a nominal case? |
+How does VCR aid in testing an API? |
+What is the Heroku URL of your deployed application? |
